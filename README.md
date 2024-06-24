@@ -3,6 +3,7 @@
 In the competitive landscape of the airline industry, maximizing the utilization of each flight's seating capacity is crucial for optimizing revenue. However, airlines face the challenge of dealing with passenger no-shows, which can lead to flights departing with empty seats, despite high demand. To mitigate this issue and enhance revenue opportunities, airlines often employ an overbooking strategy. This report delves into the analysis of overbooking as a strategic approach for an Airline, aiming to determine the optimal balance between increased revenue from selling more tickets than available seats and the potential costs associated with accommodating passengers when a flight is overbooked.\
 \
 Overbooking, while financially beneficial, carries inherent risks, primarily the possibility of having more passengers show up for a flight than the aircraft can accommodate. This situation necessitates the bumping of passengers, either to later flights or, in certain cases, upgrading them to higher service classes, if available. These actions, while necessary from an operational standpoint, can lead to passenger dissatisfaction and potential damage to the airline's reputation if not managed carefully.\
+\
 The core of our analysis focuses on:\
 \
 ● Quantifying the Benefits of Overbooking: By carefully modeling demand, pricing strategies, and passenger show-up probabilities, we aim to quantify the potential increase in revenue through overbooking.\
